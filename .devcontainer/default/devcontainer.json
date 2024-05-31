@@ -16,7 +16,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "sswg.swift-lang"
+        "sswg.swift-lang",
+        "github.vscode-github-actions"
       ],
       "settings": {
         "lldb.library": "/usr/lib/liblldb.so",

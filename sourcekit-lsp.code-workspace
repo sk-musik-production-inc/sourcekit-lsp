@@ -13,5 +13,10 @@
 			".build": true,
 			".swiftpm": true
 		}
+	},
+	"extensions": {
+		"recommendations": [
+			"github.vscode-github-actions"
+		]
 	}
 }
